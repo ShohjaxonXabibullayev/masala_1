@@ -7,4 +7,4 @@ def count_positives_sum_negatives(arr):
     return [count, total]
 
 print(count_positives_sum_negatives([1, -2, 3, -4, 5]))  # [3, -6]
-print(count_positives_sum_negatives([]))  # []
+print(count_positives_sum_negatives([]))  
